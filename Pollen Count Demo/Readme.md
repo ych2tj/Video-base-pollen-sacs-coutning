@@ -33,6 +33,7 @@ Windows:
     the thesis.
 
 Please download FaterRCNN mode in this link: https://drive.google.com/open?id=1G-E1128S9tJrxUbWfwYe59XzIXl29AJd
+Put the model in the "Pollen Count Demo" folder.
 
 Please download test videos from the list below:
 Test video 1: https://drive.google.com/open?id=1QdmWUeh4OYRivpZjn6749H8ovikrfF3I
@@ -44,3 +45,5 @@ Test video 3: https://drive.google.com/open?id=1gmW569-YoqRHD5ePqa7849D5CWKv1uo0
 Test video 4: https://drive.google.com/open?id=1khfXQ_NndokejMOIXoY1vXeC-CWbQVij
 
 Test video 5: https://drive.google.com/open?id=1fdQUxreJ31liBKIxsLNaJA86iu19-ZIN
+
+Put one of the above video in the folder of "Pollen Count Demo" folder. Then, find the video name in the code line of "objreader = vision.VideoFileReader('MP41080p20160423GOPR0983_10am_Prot.mp4','ImageColorSpace', 'RGB');" Useing commons and uncommons to switch different videos.
