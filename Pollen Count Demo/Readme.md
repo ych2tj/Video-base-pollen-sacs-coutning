@@ -31,3 +31,16 @@ Windows:
     If the % greater than 46%, the bee would be identified carrying pollen
     sacs, The threshold of 46% was got from ROC analysis. More detrail see
     the thesis.
+
+Please download FaterRCNN mode in this link: https://drive.google.com/open?id=1G-E1128S9tJrxUbWfwYe59XzIXl29AJd
+
+Please download test videos from the list below:
+Test video 1: https://drive.google.com/open?id=1QdmWUeh4OYRivpZjn6749H8ovikrfF3I
+
+Test video 2: https://drive.google.com/open?id=1nI9vdQ8tz7MnjFawcuh-_1m04Wk6GZmY
+
+Test video 3: https://drive.google.com/open?id=1gmW569-YoqRHD5ePqa7849D5CWKv1uo0
+
+Test video 4: https://drive.google.com/open?id=1khfXQ_NndokejMOIXoY1vXeC-CWbQVij
+
+Test video 5: https://drive.google.com/open?id=1fdQUxreJ31liBKIxsLNaJA86iu19-ZIN
