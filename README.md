@@ -8,4 +8,4 @@ The lable is PollenSacsLabeler_training12Flip12_table.mat in the Dateset folder.
 This project is related to Ph.D thesis from Auckland Univercity of Techonology: https://openrepository.aut.ac.nz/handle/10292/12070
 Result example is in here: https://openrepository.aut.ac.nz/handle/10292/12070
 
-In the later future, the Demo code of pollen sacs counting will be upload. The problem is the video is tow big to upload at the moment.
+The training code is in the "Dataset" folder. In the future, the idetification of bouding box probability threshold will be upload...
