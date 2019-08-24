@@ -4,9 +4,9 @@ This demo shows bee and pollen sacs detection, draw the bee flying trajectory an
 
 Mention: the model running very slow. Please wait 5s, the image will be come out. The main problem is that the Hough transform coding is not vectorized. The "for loop" slow down the programme.
 
-The Matlab essential tools: 
-   Image processing tool box
-   computer vision tool box
+The Matlab essential tools:
+  Image processing tool box
+  computer vision tool box
    deep learning tool box
    neural network tool box
 The model has been tested in Matlab 2018b.
